@@ -12,6 +12,6 @@ Develop a matrix calculator capable of performing all fundamental and advanced o
 
 1. **Educational**: Help students and teachers visualize and understand matrix operations.
 2. **Research**: Serve as a support tool for solving complex problems in mathematical, physical, and engineering research.
-3. **Efficiency and Usability**: Provide an intuitive interface so that any user can easily execute the most complex linear algebra operations.
+3. **Efficiency and Usability**: Provide an intuitive interface so that any user can easily perform linear algebra operations.
 
 **Enter the project to find out more: [Calculator_of_Matrices.ipynb](Calculator_of_Matrices.ipynb)**
