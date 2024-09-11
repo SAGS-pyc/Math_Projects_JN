@@ -1,6 +1,6 @@
 # Math Projects - Jupyter Notebook 
 
-Welcome to the **Math Projects** repository, a dedicated section of my professional portfolio showcasing various math-focused projects. Here, you'll find Jupyter Notebooks that explore a range of math concepts, in areas such as linear algebra, calculus, and more. Each project is designed as a study tool, or demonstration of practical applications by providing examples and solutions that can serve those faced with similar problems.
+Welcome to the **Math Projects** repository, a dedicated section of my professional portfolio showcasing various math-focused projects. Here, you'll find Jupyter Notebooks that explore a range of math concepts, in areas such as linear algebra, calculus, and more. Each project is designed as a study tool, or demonstration of practical applications by providing examples and solutions that can serve those faced with similar problems and various libraries such as math, numpy, and others are used.
 
 Whether you're a fellow mathematician, an educator, or simply curious about math, I hope these Python projects offer value to you and inspire further exploration.
 
